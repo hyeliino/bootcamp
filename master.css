@@ -23,7 +23,8 @@ h1 {
   text-align: center;
   font-weight: bold;
 }
-      
+
+     
 h2 {
   color: #3D84B8;
   font-family: 'Pattaya', sans-serif;
@@ -37,11 +38,13 @@ h3 {
   font-family: 'Nanum Pen Script', cursive;
   font-size: 2.5rem;
 }
+
       
 hr {
   border: dotted #EAF6F6 10px;
   border-bottom: none;
   width: 4%;
+}
 
 p {
   font-family: 'Nanum Pen Script', cursive;
@@ -60,8 +63,8 @@ p {
   font-size: 0.75rem;
   font-family: 'Pattaya', sans-serif;
   padding: 20px 0;
-
 }
+
 
 .features {
   background-color: #A6D6D6;
@@ -69,15 +72,18 @@ p {
   padding-top: 20px;
 }
 
+
 .feature-box {
   text-align: center;
   padding: 5%;
 }
-  
+
+
 .hobbies-box {
   text-align: center;
   padding: 5%;
  }
+
   
 .intro {
   width: 30%;
@@ -94,13 +100,15 @@ p {
   width: 50%;
 }
 
+.raw {
+  width: 50%;
+}
   
 .top-container{
   background-color: #E4F9F5;
   position: relative;
   padding-top: 300px;
   margin: 100px auto;
-
 }
 
 .top-cloud{
