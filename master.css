@@ -109,8 +109,9 @@ tbody {
 
 .navbar-brand{
   font-family: "Ubuntu";
-  font-size: 4rem;
+  font-size: 6rem;
   font-weight: bold;
+  color: #3D84B8;
 }
 
 .nav-item {
