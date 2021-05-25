@@ -10,7 +10,6 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  font-family: 'Pattaya', sans-serif;
 }
 
 
@@ -20,7 +19,6 @@ h1 {
   font-size: 7rem;
   line-height: 2;
   margin-top: 50px;
-  text-align: center;
   font-weight: bold;
 }
 
@@ -47,6 +45,7 @@ hr {
 }
 
 p {
+  color: #8A8A8A;
   font-family: 'Nanum Pen Script', cursive;
   font-size: 2.5rem;
   line-height: 2;
@@ -113,7 +112,7 @@ p {
 
 .top-cloud{
   position: absolute;
-  right: 200px;
+  right: 100px;
   top: 100px;
 }
 
