@@ -16,9 +16,8 @@ body {
 h1 {
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
-  font-size: 7rem;
+  font-size: 100px;
   line-height: 2;
-  margin-top: 50px;
   font-weight: bold;
 }
 
@@ -33,7 +32,6 @@ h2 {
 
 h3 {
   color: #8A8A8A;
-  font-family: 'Ubuntu', cursive;
   font-size: 3rem;
 }
 
@@ -75,6 +73,13 @@ tbody {
   width: 50%;
 }
 
+
+.footer-link{
+  font-family: 'Nanum Pen Script', cursive;
+  margin: 20px;
+}
+
+  
 .friends-box {
   margin-top: 150px;
   margin-bottom: 150px;
@@ -95,7 +100,7 @@ tbody {
 
 
 .mountain {
-  width: 50%;
+  width: 40%;
 }
 
 .navbar{
