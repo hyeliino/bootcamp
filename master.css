@@ -1,30 +1,44 @@
-body{
-  font-family: "Montserrat";
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Pattaya', serif;
 }
 
-body {
-  background-color: #F8F5F1;
-}
 
 h1 {
-  color: #480032;
+  color: #66BFBF;
+  font-family: 'Pattaya', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top: 50px;
+
 }
       
 h2 {
-  color: #CE1F6A;
+  color: #66BFBF;
+  font-family: 'Pattaya', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Ubuntu', sans-serif;
 }
       
 hr {
   border-style:none;
   border-top-style:dotted;
-  border-color: #DA7F8F;
+  border-color: #E4F9F5;
   border-width: 6px;
   width: 50%;
 }
 
 a {
   color: #11999E;
-  font-family: "Montserrat";
+  font-family: "Pattaya";
   margin: 10px 20px;
 }
 
@@ -33,7 +47,7 @@ a:hover {
 }
 
 #footer {
-  background-color: #480032;
+  background-color: #66BFBF;
   padding: 50px 0 20px;
 }
   
