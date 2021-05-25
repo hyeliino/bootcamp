@@ -46,6 +46,12 @@ a:hover {
   color: #EAF6F6;
 }
 
+.intro {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
 .top-container{
   background-color: #E4F9F5;
   position: relative;
