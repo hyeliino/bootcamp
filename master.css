@@ -86,7 +86,6 @@ p {
 }
 
 .middle-container {
-  text-align: center;
   margin: 200px 0;
 } 
 
@@ -99,9 +98,9 @@ p {
 .top-container{
   background-color: #E4F9F5;
   position: relative;
-  margin: 100px auto;
   padding-top: 300px;
-  font-family: 'Sacramento', cursive;
+  margin: 100px auto;
+
 }
 
 .top-cloud{
