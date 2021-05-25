@@ -16,7 +16,7 @@ body {
 h1 {
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
-  font-size: 6rem;
+  font-size: 7rem;
   line-height: 2;
   margin-top: 50px;
   font-weight: bold;
@@ -26,7 +26,7 @@ h1 {
 h2 {
   color: #3D84B8;
   font-family: 'Pattaya', sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: normal;
   padding-bottom: 5px;
 }
@@ -34,7 +34,7 @@ h2 {
 h3 {
   color: #8A8A8A;
   font-family: 'Ubuntu', cursive;
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 
       
@@ -62,7 +62,7 @@ tbody {
   
 .copyright{
   color: #EAF6F6;
-  font-size: 0.75rem;
+  font-size: 1.5rem;
   font-family: 'Pattaya', sans-serif;
   padding: 20px 0;
 }
@@ -70,8 +70,8 @@ tbody {
 
 .features {
   background-color: #A6D6D6;
-  padding-bottom: 150px;
-  padding-top: 150px;
+  padding-bottom: 200px;
+  padding-top: 200px;
   width: 50%;
 }
 
@@ -127,6 +127,8 @@ tbody {
 
 .second-container {
   background-color: #A6D6D6;
+  padding-bottom: 200px;
+  padding-top: 200px;
 }
   
 .top-container{
