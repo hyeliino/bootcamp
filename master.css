@@ -51,6 +51,10 @@ a:hover {
   font-family: 'Pattaya';
 }
 
+.features {
+  background-color: #A6D6D6;
+}
+
 .intro {
   width: 30%;
   margin: auto;
