@@ -12,7 +12,7 @@ h1 {
   font-size: 5.625rem;
   line-height: 2;
   margin-top: 50px;
-
+  text-align: center;
 }
       
 h2 {
@@ -38,7 +38,6 @@ hr {
 
 a {
   color: #11999E;
-  font-family: "Pattaya";
   margin: 10px 20px;
 }
 
@@ -50,6 +49,7 @@ a:hover {
   color: #EAF6F6;
   font-size: 0.75rem;
   padding: 20px 0;
+  font-family: 'Pattaya';
 }
 
 .intro {
