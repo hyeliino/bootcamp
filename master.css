@@ -55,7 +55,7 @@ tbody {
 .bottom-cloud{
   position: absolute;
   left: 200px;
-  bottom: 100px;
+  bottom: 50px;
 }
   
 .copyright{
@@ -148,6 +148,7 @@ tbody {
   background-color: #E4F9F5;
   position: relative;
   padding-top: 250px;
+  padding-bottom: 250px;
 }
 
 .top-cloud{
