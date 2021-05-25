@@ -8,7 +8,7 @@ body {
 
 h1 {
   color: #66BFBF;
-  font-family: 'Pattaya', cursive;
+  font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
   line-height: 2;
   margin-top: 50px;
@@ -16,7 +16,7 @@ h1 {
 }
       
 h2 {
-  color: #66BFBF;
+  color: #3D84B8;
   font-family: 'Pattaya', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -34,6 +34,10 @@ hr {
   border-color: #E4F9F5;
   border-width: 6px;
   width: 50%;
+}
+
+p {
+  font-family: 'Nanum Pen Script', cursive;
 }
 
 a {
