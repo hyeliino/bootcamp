@@ -65,6 +65,10 @@ a:hover {
   margin: 100px auto;
 }
 
+.middle-container {
+  margin: 100px 0;
+}
+
 .top-cloud{
   position: absolute;
   right: 200px;
