@@ -89,7 +89,12 @@ tbody {
   font-size: 1.8rem;
   line-height: 2;
 }
-  
+
+.icon {
+  color: white;
+  margin-bottom: 1rem;
+}
+
 .intro {
   width: 30%;
   margin: auto;
