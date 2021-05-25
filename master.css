@@ -16,7 +16,7 @@ body {
 h1 {
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
-  font-size: 7rem;
+  font-size: 70px;
   line-height: 2;
   margin-top: 50px;
   font-weight: bold;
@@ -91,7 +91,7 @@ p {
 }
 
 .middle-container {
-  margin: 200px 0;
+  margin: 100px 0;
 } 
 
 
@@ -118,6 +118,6 @@ p {
 
 #footer {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+  padding: 100px 0 20px;
 }
   
