@@ -87,7 +87,7 @@ p {
 
 .middle-container {
   text-align: center;
-  margin: 100px 0;
+  margin: 200px 0;
 } 
 
 
@@ -95,10 +95,6 @@ p {
   width: 50%;
 }
 
-.profile {
-  text-align: center;
-  margin-top: 100px;
-}
   
 .top-container{
   background-color: #E4F9F5;
