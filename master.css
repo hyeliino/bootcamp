@@ -1,3 +1,11 @@
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
 body {
   color: #40514E;
   margin: 0;
@@ -9,7 +17,7 @@ body {
 h1 {
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
-  font-size: 9rem;
+  font-size: 5.625rem;
   line-height: 2;
   margin-top: 50px;
   text-align: center;
@@ -19,7 +27,7 @@ h1 {
 h2 {
   color: #3D84B8;
   font-family: 'Pattaya', sans-serif;
-  font-size: 4rem;
+  font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
@@ -36,22 +44,22 @@ hr {
 
 p {
   font-family: 'Nanum Pen Script', cursive;
-  font-size: 3rem;
+  font-size: 2rem;
+  line-height: 2;
 }
 
-a {
-  color: #11999E;
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 100px;
 }
-
-a:hover {
-  color: #EAF6F6;
-}
-
+  
 .copyright{
   color: #EAF6F6;
   font-size: 0.75rem;
-  padding: 20px 0;
   font-family: 'Pattaya';
+  padding: 20px 0;
+
 }
 
 .features {
@@ -60,7 +68,6 @@ a:hover {
   padding-top: 20px;
 }
 
-  
 .feature-box {
   text-align: center;
   padding: 5%;
@@ -71,13 +78,27 @@ a:hover {
   padding: 5%;
  }
   
-  
 .intro {
   width: 30%;
   margin: auto;
   padding-bottom: 50px;
 }
 
+.middle-container {
+  text-align: center;
+  margin: 100px 0;
+} 
+
+
+.mountain {
+  width: 50%;
+}
+
+.profile {
+  text-align: center;
+  margin-top: 100px;
+}
+  
 .top-container{
   background-color: #E4F9F5;
   position: relative;
@@ -86,30 +107,10 @@ a:hover {
   font-family: 'Sacramento';
 }
 
-.middle-container {
-  text-align: center;
-  margin: 100px 0;
-}
-
 .top-cloud{
   position: absolute;
   right: 200px;
   top: 100px;
-}
-
-.bottom-cloud{
-  position: absolute;
-  left: 200px;
-  bottom: 100px;
-}
-
-.mountain {
-  width: 50%
-}
-
-.profile {
-  text-align: center;
-  margin-top: 100px;
 }
 
 #footer {
