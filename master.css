@@ -94,6 +94,10 @@ p {
 .raw {
   width: 50%;
 }
+
+.second-container {
+  background-color: #A6D6D6;
+}
   
 .top-container{
   background-color: #E4F9F5;
