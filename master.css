@@ -72,20 +72,8 @@ p {
   width: 50%;
 }
 
-
-.feature-box {
-  text-align: center;
-  padding: 5%;
-}
-
-
-.hobbies-box {
-  text-align: center;
-  padding: 5%;
- }
-
 .friends-box {
-  padding-top: 100px;
+  margin-top: 150px;
 }
   
 .intro {
