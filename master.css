@@ -33,7 +33,7 @@ h2 {
 
 h3 {
   font-family: 'Titillium Web', sans-serif;
-  font-size: 10px;
+  font-size: 20px;
 }
 
       
@@ -142,7 +142,7 @@ tbody {
 .top-container{
   background-color: #E4F9F5;
   position: relative;
-  padding-top: 300px;
+  padding-top: 200px;
 }
 
 .top-cloud{
