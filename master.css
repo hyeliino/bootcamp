@@ -62,9 +62,11 @@ a:hover {
   position: relative;
   margin: 100px auto;
   padding-top: 300px;
+  font-family: 'Sacramento';
 }
 
 .middle-container {
+  text-align: center;
   margin: 100px 0;
 }
 
@@ -85,6 +87,7 @@ a:hover {
 }
 
 .profile {
+  text-align: center;
   margin-top: 100px;
 }
 
