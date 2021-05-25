@@ -50,6 +50,10 @@ p {
   line-height: 2;
 }
 
+tbody {
+  padding-top: 20px
+}
+
 .bottom-cloud{
   position: absolute;
   left: 200px;
