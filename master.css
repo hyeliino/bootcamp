@@ -10,14 +10,14 @@ body {
   color: #40514E;
   margin: 0;
   text-align: center;
-  font-family: 'Pattaya', serif;
+  font-family: 'Pattaya', sans-serif;
 }
 
 
 h1 {
   color: #66BFBF;
   font-family: 'Sacramento', cursive;
-  font-size: 5.625rem;
+  font-size: 7rem;
   line-height: 2;
   margin-top: 50px;
   text-align: center;
@@ -27,14 +27,15 @@ h1 {
 h2 {
   color: #3D84B8;
   font-family: 'Pattaya', sans-serif;
-  font-size: 2.5rem;
+  font-size: 4rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
 
 h3 {
   color: #11999E;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 3rem;
 }
       
 hr {
@@ -44,7 +45,7 @@ hr {
 
 p {
   font-family: 'Nanum Pen Script', cursive;
-  font-size: 2rem;
+  font-size: 2.5rem;
   line-height: 2;
 }
 
@@ -57,7 +58,7 @@ p {
 .copyright{
   color: #EAF6F6;
   font-size: 0.75rem;
-  font-family: 'Pattaya';
+  font-family: 'Pattaya', sans-serif;
   padding: 20px 0;
 
 }
@@ -104,7 +105,7 @@ p {
   position: relative;
   margin: 100px auto;
   padding-top: 300px;
-  font-family: 'Sacramento';
+  font-family: 'Sacramento', cursive;
 }
 
 .top-cloud{
