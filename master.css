@@ -69,6 +69,7 @@ p {
   background-color: #A6D6D6;
   padding-bottom: 20px;
   padding-top: 20px;
+  width: 50%;
 }
 
 
@@ -83,6 +84,9 @@ p {
   padding: 5%;
  }
 
+.friends-box {
+  padding-top: 100px;
+}
   
 .intro {
   width: 30%;
