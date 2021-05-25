@@ -36,7 +36,7 @@ hr {
 
 p {
   font-family: 'Nanum Pen Script', cursive;
-  font-size: 1.5rem;
+  font-size: 3rem;
 }
 
 a {
@@ -60,6 +60,18 @@ a:hover {
   padding-top: 20px;
 }
 
+  
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+  
+.hobbies-box {
+  text-align: center;
+  padding: 5%;
+ }
+  
+  
 .intro {
   width: 30%;
   margin: auto;
