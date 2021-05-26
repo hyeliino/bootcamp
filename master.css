@@ -66,6 +66,10 @@ tbody {
 }
 
 
+.dice-game {
+  margin: 20px;
+}
+
 .features {
   background-color: #A6D6D6;
   padding-bottom: 100px;
