@@ -1,5 +1,5 @@
 var randomNumber1 = Math.floor(Math.random()*6) + 1;
-var randomDiceImage = "dice" + randomNumber1 + ".png";
+var randomDiceImage = "https://1.bp.blogspot.com/-63hEb6Lyhaw/XaWZVHd34tI/AAAAAAAAAAU/MM7jcVrFqKQyiHLH9eLz8mXJigfsrTmDACLcBGAsYHQ/s200/dice" + randomNumber1 + ".png";
 
 var randomImageSource = "images/" + randomDiceImage;
 
@@ -10,7 +10,7 @@ image1.setAttribute("src", randomImageSource);
 
 var randomNumber2 = Math.floor(Math.random()*6) + 1;
 
-var randomImageSource2 = "images/dice" + randomNumber2 + ".png";
+var randomImageSource2 = "https://1.bp.blogspot.com/-63hEb6Lyhaw/XaWZVHd34tI/AAAAAAAAAAU/MM7jcVrFqKQyiHLH9eLz8mXJigfsrTmDACLcBGAsYHQ/s200/dice" + randomNumber2 + ".png";
 
 document.querySelectorAll("img")[1].setAttribute("src", randomImageSource2);
 
@@ -25,3 +25,4 @@ else if (randomNumber2>randomNumber1) {
 else {
   document.querySelector("h2").innerHTML = "😃Draw!😃";
 }
+
