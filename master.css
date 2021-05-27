@@ -173,3 +173,10 @@ tbody {
   padding: 100px 0 100px;
 }
   
+
+#game-button {
+  border: 10px solid #404B69;
+  color: #FBEEAC;
+  width: 100px;
+  text-align: center;
+}
