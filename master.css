@@ -67,12 +67,14 @@ tbody {
 
 
 .dice-game {
-  margin-top: 100px;
+  padding-top: 100px;
+  background-color: #fffbe3;
 }
 
 
 .drum-kit {
-  margin: 70px;
+  background-color: #fffbe3;
+  padding-bottom: 100px;
 }
 
 
