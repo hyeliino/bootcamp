@@ -10,6 +10,12 @@ h1 {
   text-shadow: 3px 0 #EEEEEE;
 }
 
+h2 {
+  font-size: 4rem;
+  color: #EEEEEE;
+  font-family: 'Arvo', cursive;
+}
+
 footer {
   margin-top: 5%;
   margin-bottom: 100px;
