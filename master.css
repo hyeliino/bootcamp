@@ -176,7 +176,7 @@ tbody {
 
 #game-button {
   border: 10px solid #404B69;
-  color: #FBEEAC;
-  width: 100px;
+  background-color: #FBEEAC;
+  width: 500px;
   text-align: center;
 }
